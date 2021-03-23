@@ -9,9 +9,10 @@ Programa para fazer as referencias bibliograficas segundo a norma da ABNT
 ## Instalação
 - download do .rar (https://drive.google.com/file/d/15ddLKp58cqxPIPPUGEypTiyCpKYxP73x/view?usp=sharing)
 - extrair a pasta
+  <img src="https://github.com/ArthurMartiins/referenciaBibliografica/blob/main/images/extrair.png">
 - abrir o programa "bibliografia"
-- <img src="https://github.com/ArthurMartiins/referenciaBibliografica/blob/main/images/programa.png">
+  <img src="https://github.com/ArthurMartiins/referenciaBibliografica/blob/main/images/programa.png">
 
 ## Screenshots
-<img src="https://github.com/ArthurMartiins/referenciaBibliografica/blob/main/images/sreenshot1.png">
+<img src="https://github.com/ArthurMartiins/referenciaBibliografica/blob/main/images/sreenshot1.png"> <br>
 <img src="https://github.com/ArthurMartiins/referenciaBibliografica/blob/main/images/screenshot2.png">
