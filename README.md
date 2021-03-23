@@ -13,3 +13,4 @@ Programa para fazer as referencias bibliograficas segundo a norma da ABNT
 
 ## Screenshots
 <img src="https://github.com/ArthurMartiins/referenciaBibliografica/blob/main/images/sreenshot1.png">
+<img src="https://github.com/ArthurMartiins/referenciaBibliografica/blob/main/images/screenshot2.png">
