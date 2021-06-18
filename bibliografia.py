@@ -43,7 +43,7 @@ class TelaPython:
             url = self.values['url']
 
             print(
-                f'{sobrenome}, {nome}. {titulo}. {nomeSite}. Disponível em: <{url}>. Acesso em: {data}.')
+                f'{sobrenome.upper()}, {nome}. {titulo}; {nomeSite}. Disponível em: <{url}>. Acesso em: {data}.')
 
 
 tela = TelaPython()
