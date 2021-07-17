@@ -2,19 +2,6 @@
 
 Programa para fazer as referencias bibliograficas segundo a norma da ABNT
 
-## Requisitos
-- WinRar
-- Windows 7/8.1/10
-
-## Instalação
-- download do .rar (https://drive.google.com/file/d/15ddLKp58cqxPIPPUGEypTiyCpKYxP73x/view?usp=sharing)
-- extrair a pasta
-<br>
-  <img src="https://github.com/ArthurMartiins/referenciaBibliografica/blob/main/images/extrair.png">
-- abrir o programa "bibliografia"
-<br>
-  <img src="https://github.com/ArthurMartiins/referenciaBibliografica/blob/main/images/programa.png">
-
 ## Screenshots
-<img src="https://github.com/ArthurMartiins/referenciaBibliografica/blob/main/images/sreenshot1.png"> <br>
-<img src="https://github.com/ArthurMartiins/referenciaBibliografica/blob/main/images/screenshot2.png">
+<img src="https://photos.google.com/album/AF1QipPs0JQzGUx3MBVYWXO8ep6EFufvUVsRRFfXhkL8/photo/AF1QipMHZqFBlsocHhbot8zQME3gISxh8d1EkANAZGTH"> <br>
+<img src="https://photos.google.com/album/AF1QipPs0JQzGUx3MBVYWXO8ep6EFufvUVsRRFfXhkL8/photo/AF1QipNWsu1EzIJSCo-HLktZnvdmSxB3aV8ZO39vrZK8">
