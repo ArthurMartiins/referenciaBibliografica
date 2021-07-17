@@ -1,8 +1,3 @@
-# com autor: SOBRENOME, Nome. Título da matéria. Nome do site. Disponível
-# em: #  <URL>. Acesso em: dia, mês e ano.
-# sem autor: TÍTULO da matéria. Nome do site, ano. Disponível em: <URL>.
-# Acesso em: dia, mês e ano.
-
 import PySimpleGUI as sg
 
 
@@ -13,7 +8,7 @@ class TelaPython:
         layout = [
             [sg.Text('Nome do Autor')],
             [sg.Input(key='nome', size=(60, 0))],
-            [sg.Text('Sobrenome do Autor (em maiúsculo)')],
+            [sg.Text('Sobrenome do Autor')],
             [sg.Input(key='sobrenome', size=(60, 0))],
             [sg.Text('Título da Matéria')],
             [sg.Input(key='titulo', size=(60, 0))],
